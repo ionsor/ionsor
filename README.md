@@ -1,7 +1,7 @@
 <p align="center">
 <a href='https://twitter.com/ciovlici'>
-  <img width="70%" src='https://github-readme-stats.vercel.app/api?username=ionsor&show_icons=true&theme=graywhite'/>
-  <img width="70%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ionsor&layout=compact'/>
+  <img width="70%" src='https://github-readme-stats.vercel.app/api?username=ionsor&show_icons=true&theme=graywhite&hide_border=true'/>
+  <img width="70%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ionsor&layout=compact&theme=graywhite&hide_border=true'/>
 </a>
 </p>
 
