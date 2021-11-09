@@ -1,8 +1,8 @@
 <p align="center">
 <a href='https://twitter.com/ciovlici'>
   <img width="70%" src='https://github-readme-stats.vercel.app/api?username=ionsor&show_icons=true&theme=graywhite&hide_border=true'/>
-  <img align="center" alt="Languages and Tools:" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/>
-  <img align="center" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png'/>
+  <img align="center" height="20" alt="Languages and Tools:" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/>
+  <img align="center"  height="20" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png'/>
   <!--<img width="70%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ionsor&layout=compact&theme=graywhite&hide_border=true'/>-->
 </a>
 </p>
