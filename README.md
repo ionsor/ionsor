@@ -1,14 +1,11 @@
 <p align="center">
 <a href='https://twitter.com/ciovlici'>
   <img width="70%" src='https://github-readme-stats.vercel.app/api?username=ionsor&show_icons=true&theme=graywhite&hide_border=true'/>
-  <img width="70%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ionsor&layout=compact&theme=graywhite&hide_border=true'/>
+  <img width="70%" alt="Languages and Tools:" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/>
+  <img width="70%" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png'/>
+  <!--<img width="70%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ionsor&layout=compact&theme=graywhite&hide_border=true'/>-->
 </a>
 </p>
-
-**Languages and Tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
 
 <!--
 **ionsor/ionsor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
